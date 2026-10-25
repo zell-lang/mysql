@@ -1,0 +1,7 @@
+[package]
+name = "mysql"
+version = "0.0.1"
+namespace = "mysql"
+
+license = "MIT"
+description = "MySQL/MariaDB driver for zell-lang/db"
